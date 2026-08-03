@@ -3,5 +3,5 @@
 Name: Jithin
 No: 2520030508
 
-- Weekly assignments or skill stuff will be in the `Weekly Assignments` folder.
+- Weekly assignments will be in the `Weekly Assignments` folder.
 
